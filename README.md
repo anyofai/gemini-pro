@@ -114,7 +114,7 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
-## 国内订阅开通Gemini Pro会员相关的常见问题
+## 国内订阅开通Gemini Pro常见问题
 
 ### Google Gemini Pro价格是多少？
 
