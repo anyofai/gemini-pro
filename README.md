@@ -8,6 +8,18 @@
 
 此外，我们也会为大家解答Google Gemini Pro的价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、Gemini 3 Pro是否有使用次数限制、Gemini 3 Pro无法使用了该怎么办等常见问题。
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-方法一直接购买gemini-pro账号">1. <a href="#方法一直接购买gemini-pro账号">方法一：直接购买Gemini Pro账号</a></h3>
+<h4 id="1-gemini-pro购买平台一银河录像局">1. <a href="#gemini-pro购买平台一银河录像局">Gemini Pro购买平台（一）：银河录像局</a></h4>
+<h4 id="2-gemini-pro购买平台二星际放映厅">2. <a href="#gemini-pro购买平台二星际放映厅">Gemini Pro购买平台（二）：星际放映厅</a></h4>
+<h4 id="3-gemini-pro购买平台三账号星球">3. <a href="#gemini-pro购买平台三账号星球">Gemini Pro购买平台（三）：账号星球</a></h4>
+<h3 id="2-方法二为你的gemini-pro代充值">2. <a href="#方法二为你的gemini-pro代充值">方法二：为你的Gemini Pro代充值</a></h3>
+<h3 id="3-方法三拼车合租gemini-pro会员">3. <a href="#方法三拼车合租gemini-pro会员">方法三：拼车合租Gemini Pro会员</a></h3>
+<h3 id="4-国内订阅开通gemini-pro常见问题">4. <a href="#国内订阅开通gemini-pro常见问题">国内订阅开通Gemini Pro常见问题</a></h3>
+<h3 id="5-总结国内如何使用gemini-3-pro">5. <a href="#总结国内如何使用gemini-3-pro">总结：国内如何使用Gemini 3 Pro</a></h3>
+</blockquote>
+
 ## 方法一：直接购买Gemini Pro账号
 
 对于绝大多数国内用户而言，直接购买Gemini Pro账号是最省心、最可靠、最安全、最稳定的方式。因为当你完成Gemini Pro购买后，只需登录即可直接使用所有Gemini 3 Pro功能，不需要信用卡，不需要Google Pay，不需要支付验证，也不需要处理任何风控问题，更无需自己反复折腾。
