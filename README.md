@@ -18,6 +18,8 @@
 
 ### Gemini Pro购买平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+
 在众多国内数字工具与流媒体账号服务平台中，银河录像局一直被认为是用户讨论度最高、可信度最强、运营最稳定的品牌之一。作为国内少数通过工信部ICP备案、具备实体企业资质的数字服务平台，银河录像局长期保持着稳定、透明、合规的运营模式，再加上完善的售前与售后体系，使其在行业内获得了较高的口碑和用户认可度。
 
 首先，银河录像局由实体公司运营，具备正式的ICP备案，有完整的企业主体信息和备案资料，是行业中为数不多公开自身运营资质的平台之一。相比市面上大量匿名运营、无备案、无主体的“野鸡平台”，银河录像局的背景更加透明、可信，因此在长期稳定性方面也更具优势，更容易获得用户信任。
@@ -28,17 +30,23 @@
 
 值得注意的是，银河录像局提供的是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定、注重隐私、希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格透明、售后保障明确，使用过程中如果出现无法登录、功能异常或模型调用受限等情况，都可以通过售后来处理或更换。
 
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
+
 总体来说，凭借成熟的运营体系、完善的售后服务、全面的产品覆盖范围、稳定的使用体验，以及在Gemini系列服务上的深入支持，银河录像局在国内Gemini Pro购买渠道中长期处于用户最推荐的位置。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ### Gemini Pro购买平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
+
 如果说银河录像局以“企业资质齐全、体系成熟”闻名，那么星际放映厅则更像是一家“业务覆盖广、产品交付快、价格透明、售后服务完善”的综合数字服务平台。作为一家成立于2023年的正规运营平台，星际放映厅已经在浙江省完成ICP备案（浙ICP备2023017856号），拥有合法的企业主体信息，在国内同类合租与代充服务平台中属于合规性较高的一类。
 
 在提供的业务方面，星际放映厅覆盖的产品非常丰富，既包含ChatGPT、Claude、Gemini、Poe、Midjourney、Sora等热门AI工具，也涵盖Netflix、YouTube Premium、Max、Disney+、Prime Video、Spotify等海外流媒体服务。此外，还提供Apple ID、Google账号等基础账号服务。同时，星际放映厅提供在线客服，日常问题、使用指导、售后处理都能通过客服沟通解决，响应速度较快，整体体验流畅。
 
 对于想要开通Gemini Pro的用户来说，星际放映厅提供的Gemini账号是由平台代为开通的，用户拿到账号后即可直接使用Gemini 3.0 Pro模型，省去了Google Pay、信用卡绑定、地区风控等一系列复杂流程。而且星际放映厅的价格相对友好，购买Gemini 3.0 Pro账号每月仅需185元，使用优惠码“ANYOFAI”还能享受九折优惠，折后每月仅需172元。
+
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4.png)
 
 除了产品清晰、交付速度快之外，星际放映厅也提供基础的售后保障，例如账号异常可协助处理、使用中出现风控可以联系技术支持等。虽然售后体系不如银河录像局那样“企业化、体系化”，但在同类竞品中仍处于较为稳定的水平，适合预算有限、希望快速开通Gemini Pro的用户选择。
 
@@ -48,11 +56,15 @@
 
 ### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>
 
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-5.png)
+
 在国内的数字账号服务平台中，账号星球属于体量较大、品类覆盖广、交付效率高的综合型账号商城。平台采用自动化系统运行，支持多类账号即时交付，商品分类清晰、选择丰富，售后规则明确，是许多用户购买基础账号、工具账号以及海外数字服务账号时常使用的平台之一。
 
 账号星球的主要特点集中在三个方面：账号品类齐全、自动化程度高、售后流程规范。平台支持苹果ID、Telegram账号、TikTok账号、谷歌账号、社交账号、AI工具账号、影音会员账号、游戏账号、邮箱账号、礼品卡等多类产品，总计数十种账号类型。通过账号星球的官网可以看到，大部分商品都支持“即时交付”，系统会在付款后几分钟内自动生成账号并发放给用户，省去了人工处理的等待时间，非常适合希望“立即上手”的用户。此外，账号星球在商品信息中标注了“被数百万人信任”“全球超一百万用户”“官方渠道付款”“24小时在线服务”等特点，并提供了基础售后机制，例如大部分账号类商品支持三天内质量问题免费更换，这一点在同类平台中属于较为规范的做法。
 
 在Gemini服务方面，账号星球提供两类商品：“Gemini账号”和“Gemini AI Pro（30天）会员账号”。其中，“Gemini账号”价格较低，适合仅需快速注册谷歌Gemini账号的用户；而“Gemini AI Pro（30天）会员账号”则由平台代为开通为Gemini Pro成品账号，用户拿到后即可直接登录，无需绑定海外信用卡、无需Google Pay，也不必自行处理繁琐的开通流程。此外，账号星球还提供了登录教程，并提醒用户在国内使用Gemini需自备科学上网环境，最好选择美国IP，以避免出现“Gemini isn’t currently supported in your country”等地区限制提示。
+
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-6.png)
 
 在售后方面，账号星球为Gemini Pro账号提供基础保障：账号质量问题可在三天内免费更换；如果使用中遇到地区限制、网络环境不兼容等情况，平台也会提供相应的指导说明。不过与银河录像局等更偏企业化的平台相比，账号星球的服务模式更倾向自动交付与规则化处理，售后支持更偏标准化，而不是深度人工协助，因此更适合对账号使用有一定经验、预算有限、希望快速获取成品账号的用户。
 
