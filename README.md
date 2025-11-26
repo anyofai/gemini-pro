@@ -1,4 +1,4 @@
-# 2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？
+# <p align="center">2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？</p>
 
 <p align="center">最近更新于：2025年11月26日</p>
 
