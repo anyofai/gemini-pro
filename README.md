@@ -30,7 +30,7 @@
 
 总体来说，凭借成熟的运营体系、完善的售后服务、全面的产品覆盖范围、稳定的使用体验，以及在Gemini系列服务上的深入支持，银河录像局在国内Gemini Pro购买渠道中长期处于用户最推荐的位置。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</p>
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ### Gemini Pro购买平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
@@ -44,7 +44,7 @@
 
 总体来看，星际放映厅的定位更偏向于“高性价比、交付快速、覆盖全面”。无论你是需要购买Gemini Pro成品账号，还是想同时使用ChatGPT、Claude、Midjourney、Grok等多个AI工具，星际放映厅都可以作为一个价格合理、付款便利、服务流程简单的渠道选择。
 
-<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
 ### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>
 
@@ -58,7 +58,7 @@
 
 总体来看，账号星球的核心优势在于商品覆盖广、自动发货快、价格透明、操作简单。对于希望立即获得可直接登录的Gemini Pro成品账号、想快速体验Gemini 3.0 Pro并尽量减少操作步骤的用户而言，账号星球是一个便捷、流程简单、上手门槛低的可选渠道。
 
-<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</p>
+<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
 
 ## 方法二：为你的Gemini Pro代充值
 
@@ -74,7 +74,7 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 总体而言，如果你已经有自己的Google账号，并希望继续在同一个账号中使用Gemini Pro，那么代充值是最合适的开通方式；而星际放映厅则是目前国内最成熟、最稳定的Gemini Pro代充值渠道之一。你只需提供账号信息即可完成开通，无需信用卡、无需Google Pay、无需跨区验证，整个过程高效、安全，也最符合大多数国内用户的使用需求。
 
-<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
 ## 方法三：拼车合租Gemini Pro会员
 
@@ -96,7 +96,7 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3 Pro模型，还能同时解锁GPT-5.1、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</p>
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ## 国内订阅开通Gemini Pro会员相关的常见问题
 
@@ -117,7 +117,7 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 ### Google Gemini Pro官网是哪个？
 
-* Google Gemini Pro官网：https://gemini.google.com
+* Google Gemini Pro官网：gemini.google.com
 
 这是Google面向全球用户提供的官方访问地址，无论是使用免费版Gemini，还是升级到Gemini Pro，都需要从此页面进入。需要特别注意的是，订阅Gemini Pro会员并没有独立的网站，而是直接在gemini.google.com页面内完成升级操作。
 
@@ -129,7 +129,7 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 #### 1，网页端使用Google Gemini的方法
 
-如果你不想安装任何App，也不想折腾账号地区或商店限制，那么网页端是最方便、最通用的方式。你只需在浏览器打开：https://gemini.google.com
+如果你不想安装任何App，也不想折腾账号地区或商店限制，那么网页端是最方便、最通用的方式。你只需在浏览器打开：gemini.google.com
 
 进入页面后使用你的Google账号登录即可开始使用，无需安装应用，也不受设备限制。无论是Windows电脑、Mac电脑、iPad还是安卓平板，只要能访问网页，都可以直接体验Gemini Pro功能。
 
