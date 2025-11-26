@@ -143,23 +143,11 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 Google Gemini目前支持网页端和移动端多种使用方式，你可以根据自己的设备选择最合适的安装方法。整体而言，网页端最简单，而移动端需要根据系统分别安装。
 
-#### 1，网页端使用Google Gemini的方法
+* **网页端使用Google Gemini的方法**：如果你不想安装任何App，也不想折腾账号地区或商店限制，那么网页端是最方便、最通用的方式。你只需在浏览器中打开Gemini官网（gemini.google.com），进入页面后使用你的Google账号登录即可开始使用，无需安装应用，也不受设备限制。无论是Windows电脑、Mac电脑、iPad还是安卓平板，只要能访问网页，都可以直接体验Gemini Pro功能。
 
-如果你不想安装任何App，也不想折腾账号地区或商店限制，那么网页端是最方便、最通用的方式。你只需在浏览器打开：gemini.google.com
+* **安卓设备下载Google Gemini的方法**：如果你使用的是安卓手机或平板，并且设备能够正常访问Google Play，那么可以直接在Google Play中搜索“Gemini”或“Google Gemini”并下载安装。在安装完成后登录你的Google账号即可正常使用Gemini和Gemini Pro的全部功能。需要注意的是，如果你的Android设备在国内使用，必须准备可以访问Google Play的网络环境，否则可能无法搜索到应用或无法正常下载。
 
-进入页面后使用你的Google账号登录即可开始使用，无需安装应用，也不受设备限制。无论是Windows电脑、Mac电脑、iPad还是安卓平板，只要能访问网页，都可以直接体验Gemini Pro功能。
-
-#### 2，安卓设备下载Google Gemini的方法
-
-如果你使用的是安卓手机或平板，并且设备能够正常访问Google Play，那么可以直接在Google Play中搜索“Gemini”或“Google Gemini”并下载安装。在安装完成后登录你的Google账号即可正常使用Gemini和Gemini Pro的全部功能。
-
-需要注意的是，如果你的Android设备在国内使用，必须准备可以访问Google Play的网络环境，否则可能无法搜索到应用或无法正常下载。
-
-#### 3，苹果设备下载Google Gemini的方法
-
-由于Gemini App尚未在中国区App Store上架，iPhone和iPad用户必须使用美区Apple ID才能下载。
-
-最简单的方式是通过“账号星球”购买一个已配置好的美区Apple ID，然后在设备上退出原本的Apple ID并登录美区Apple ID。进入美区App Store后，搜索“Gemini”即可下载官方Google Gemini客户端。在安装完成后，只需重新登录你的Google账号，即可使用Gemini Pro和Gemini 3 Pro等全部功能。
+* **苹果设备下载Google Gemini的方法**：由于Gemini App尚未在中国区App Store上架，iPhone和iPad用户必须使用美区Apple ID才能下载。最简单的方式是通过“<a href="https://accboyytbanyofai.acceboy.com/">**账号星球**</a>”购买一个已配置好的美区Apple ID，然后在设备上退出原本的Apple ID并登录美区Apple ID。进入美区App Store后，搜索“Gemini”即可下载官方Google Gemini客户端。在安装完成后，只需重新登录你的Google账号，即可使用Gemini Pro和Gemini 3 Pro等全部功能。
 
 ### Gemini 3 Pro有使用次数限制吗？
 
