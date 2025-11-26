@@ -108,6 +108,8 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 值得注意的是，拼车合租Gemini Pro会员适合的人群非常广泛，包括想体验Gemini 3 Pro大模型但预算有限的用户；只想使用Gemini 3 Pro大模型、没有谷歌账号的用户；不想折腾Google Pay、信用卡或跨区验证的用户；希望“立即能用”、不想配置任何环境的用户；以及希望同时体验GPT-5.1、DeepSeek-R1、Grok等模型的用户。对于学生、小白、轻量用户和临时需求者来说，Gemini 3 Pro镜像站的体验与性价比都远高于传统共享账号。
 
+![Gemini 3 Pro国内使用教程：拼车合租Gemini Pro会员-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9FGemini%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
+
 小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3 Pro模型，还能同时解锁GPT-5.1、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
