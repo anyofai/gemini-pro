@@ -1,6 +1,6 @@
 # <p align="center">2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？</p>
 
-<p align="center">最近更新于：2025年11月26日</p>
+<p align="center">最近更新于：2025年11月29日</p>
 
 ![2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png)
 
@@ -8,7 +8,7 @@
 
 <blockquote>
 
-需要提醒大家的是：由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括拼车合租Gemini Pro会员、购买Gemini Pro账号以及为你的Gemini Pro代充值。
+非常遗憾的是，由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括**拼车合租Gemini Pro会员、购买Gemini Pro账号以及为你的Gemini Pro代充值**，大家可以根据自己的实际需求选择合适的方案。
 
 - **[方法一：直接购买Gemini Pro账号](#方法一直接购买gemini-pro账号)**
 - [Gemini Pro购买平台（一）：银河录像局](#gemini-pro购买平台一银河录像局)
