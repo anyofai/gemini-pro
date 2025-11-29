@@ -6,6 +6,8 @@
 
 注意：由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括拼车合租Gemini Pro会员、购买Gemini Pro账号以及为你的Gemini Pro代充值。
 
+<blockquote>
+
 以下是本文的快速导航，大家可以根据需要快速进入相应的服务板块。
 
 - **[方法一：直接购买Gemini Pro账号](#方法一直接购买gemini-pro账号)**
@@ -16,6 +18,8 @@
 - **[方法三：拼车合租Gemini Pro会员](#方法三拼车合租gemini-pro会员)**
 - **[国内订阅开通Gemini Pro常见问题](#国内订阅开通gemini-pro常见问题)**
 - **[总结：国内如何使用Gemini 3 Pro](#总结国内如何使用gemini-3-pro)**
+
+</blockquote>
 
 此外，我们也会为大家解答Google Gemini Pro的价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、Gemini 3 Pro是否有使用次数限制、Gemini 3 Pro无法使用了该怎么办等常见问题。
 
