@@ -17,7 +17,7 @@
 - **[方法二：为你的Gemini Pro代充值](#方法二为你的gemini-pro代充值)**
 - **[方法三：拼车合租Gemini Pro会员](#方法三拼车合租gemini-pro会员)**
 - **[国内订阅开通Gemini Pro常见问题](#国内订阅开通gemini-pro常见问题)**
-- **[总结：国内如何使用Gemini 3 Pro](#总结国内如何使用gemini-3-pro)**
+- **[总结：国内如何使用Gemini Pro会员](#总结国内如何使用gemini-3-pro)**
 
 </blockquote>
 
