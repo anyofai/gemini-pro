@@ -6,11 +6,9 @@
 
 2025年11月18日，Google正式推出全新的旗舰级智能模型Gemini 3 Pro。与上一代相比，Gemini 3 Pro在多模态推理、代码生成、文档解析、视频理解、长文本处理以及综合知识推理等方面都实现了跨代升级，成为目前Google生态体系中最核心的“超级模型”。无论是学术研究、工程开发，还是专业内容创作、商业策略分析或企业级智能应用，Gemini 3 Pro都展现出极高的实用价值。
 
-注意：由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括拼车合租Gemini Pro会员、购买Gemini Pro账号以及为你的Gemini Pro代充值。
-
 <blockquote>
 
-以下是本文的快速导航，大家可以根据需要快速进入相应的服务板块。
+注意：由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括拼车合租Gemini Pro会员、购买Gemini Pro账号以及为你的Gemini Pro代充值。以下是本文的快速导航，大家可以根据需要快速进入相应的服务板块。
 
 - **[方法一：直接购买Gemini Pro账号](#方法一直接购买gemini-pro账号)**
   - [Gemini Pro购买平台（一）：银河录像局](#gemini-pro购买平台一银河录像局)
