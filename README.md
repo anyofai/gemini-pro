@@ -2,23 +2,25 @@
 
 <p align="center">最近更新于：2025年11月26日</p>
 
-2025年11月18日，Google正式推出了全新的旗舰级智能模型Gemini 3 Pro。与上一代相比，Gemini 3 Pro在多模态推理、代码生成、文档解析、视频理解、长文本处理以及综合知识推理等方面都实现了跨代升级，成为目前Google生态体系中最核心的“超级模型”。无论是学术研究、工程开发，还是专业内容创作、商业策略分析或企业级智能应用，Gemini 3 Pro都展现出极高的实用价值。
+2025年11月18日，Google正式推出全新的旗舰级智能模型Gemini 3 Pro。与上一代相比，Gemini 3 Pro在多模态推理、代码生成、文档解析、视频理解、长文本处理以及综合知识推理等方面都实现了跨代升级，成为目前Google生态体系中最核心的“超级模型”。无论是学术研究、工程开发，还是专业内容创作、商业策略分析或企业级智能应用，Gemini 3 Pro都展现出极高的实用价值。
 
-然而，由于Google服务体系在国内受限，加上Google Pay无法在国内正常使用，许多用户即使能够访问Gemini，也往往无法顺利完成订阅付费，最终只能停留在免费版或受限版模型。为了帮助国内用户顺利订阅开通Gemini Pro会员，本篇文章将以最系统、最清晰、最专业的方式为你完整讲解Gemini 3 Pro国内使用教程，包括拼车合租Gemini Pro会员、购买Gemini Pro账号，以及为你的Gemini Pro代充值。
+注意：由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括拼车合租Gemini Pro会员、购买Gemini Pro账号以及为你的Gemini Pro代充值。以下是本文的快速导航，大家可以根据需要快速进入相应的服务板块。
+
+- **[方法一：直接购买Gemini Pro账号](#方法一直接购买gemini-pro账号)**
+
+  - [Gemini Pro购买平台（一）：银河录像局](#gemini-pro购买平台一银河录像局)
+  - [Gemini Pro购买平台（二）：星际放映厅](#gemini-pro购买平台二星际放映厅)
+  - [Gemini Pro购买平台（三）：账号星球](#gemini-pro购买平台三账号星球)
+
+- **[方法二：为你的Gemini Pro代充值](#方法二为你的gemini-pro代充值)**
+
+- **[方法三：拼车合租Gemini Pro会员](#方法三拼车合租gemini-pro会员)**
+
+- **[国内订阅开通Gemini Pro常见问题](#国内订阅开通gemini-pro常见问题)**
+
+- **[总结：国内如何使用Gemini 3 Pro](#总结国内如何使用gemini-3-pro)**
 
 此外，我们也会为大家解答Google Gemini Pro的价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、Gemini 3 Pro是否有使用次数限制、Gemini 3 Pro无法使用了该怎么办等常见问题。
-
-<blockquote>
-<h2 id="本文内容导航">本文内容导航</h2>
-<h3 id="1-方法一直接购买gemini-pro账号">1. <a href="#方法一直接购买gemini-pro账号">方法一：直接购买Gemini Pro账号</a></h3>
-<h4 id="1-gemini-pro购买平台一银河录像局">1. <a href="#gemini-pro购买平台一银河录像局">Gemini Pro购买平台（一）：银河录像局</a></h4>
-<h4 id="2-gemini-pro购买平台二星际放映厅">2. <a href="#gemini-pro购买平台二星际放映厅">Gemini Pro购买平台（二）：星际放映厅</a></h4>
-<h4 id="3-gemini-pro购买平台三账号星球">3. <a href="#gemini-pro购买平台三账号星球">Gemini Pro购买平台（三）：账号星球</a></h4>
-<h3 id="2-方法二为你的gemini-pro代充值">2. <a href="#方法二为你的gemini-pro代充值">方法二：为你的Gemini Pro代充值</a></h3>
-<h3 id="3-方法三拼车合租gemini-pro会员">3. <a href="#方法三拼车合租gemini-pro会员">方法三：拼车合租Gemini Pro会员</a></h3>
-<h3 id="4-国内订阅开通gemini-pro常见问题">4. <a href="#国内订阅开通gemini-pro常见问题">国内订阅开通Gemini Pro常见问题</a></h3>
-<h3 id="5-总结国内如何使用gemini-3-pro">5. <a href="#总结国内如何使用gemini-3-pro">总结：国内如何使用Gemini 3 Pro</a></h3>
-</blockquote>
 
 ## 方法一：直接购买Gemini Pro账号
 
