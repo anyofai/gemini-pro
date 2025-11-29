@@ -11,9 +11,9 @@
 非常遗憾的是，由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括**拼车合租Gemini Pro会员、购买Gemini Pro账号，以及为你的Gemini Pro代充值**，大家可以根据自己的实际需求选择合适的方案。
 
 - **[方法一：直接购买Gemini Pro账号](#方法一直接购买gemini-pro账号)**
-- [Gemini Pro购买平台（一）：星际放映厅](#gemini-pro购买平台二星际放映厅)
-- [Gemini Pro购买平台（二）：账号星球](#gemini-pro购买平台三账号星球)
-- [Gemini Pro购买平台（三）：银河录像局](#gemini-pro购买平台一银河录像局)
+- [Gemini Pro购买平台（一）：星际放映厅](#gemini-pro购买平台一星际放映厅)
+- [Gemini Pro购买平台（二）：账号星球](#gemini-pro购买平台二账号星球)
+- [Gemini Pro购买平台（三）：银河录像局](#gemini-pro购买平台三银河录像局)
 - **[方法二：为你的Gemini Pro代充值](#方法二为你的gemini-pro代充值)**
 - **[方法三：拼车合租Gemini Pro会员](#方法三拼车合租gemini-pro会员)**
 - **[国内订阅开通Gemini Pro常见问题](#国内订阅开通gemini-pro常见问题)**
