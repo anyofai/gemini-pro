@@ -1,6 +1,6 @@
 # <p align="center">2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？</p>
 
-<p align="center">最近更新于：2025年11月29日</p>
+<p align="center">最近更新于：2025年12月4日</p>
 
 ![2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png)
 
@@ -228,3 +228,5 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
+免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
