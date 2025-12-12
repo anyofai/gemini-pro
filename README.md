@@ -113,7 +113,7 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 如果你的预算有限，或者只是想体验一下Gemini 3 Pro的强大功能，那么拼车合租Gemini Pro会员是目前性价比最高的方式之一。但需要特别注意，真正靠谱的合租方式绝不是“多人共用一个Google账号”。这种做法风险极高，非常容易触发风控、封号、强制退出登录等问题，无法长期稳定使用。
 
-目前国内最稳定、口碑最好、体验最佳的Gemini 3 Pro合租方式是使用<a href="https://nf.video/BTgSc">**银河录像局**</a>提供的“GPT Plus镜像版”。虽然该服务名称是GPT Plus镜像版，但本质上这是银河录像局自建的多模型融合镜像系统，支持GPT-5.1、GPT-4o、DeepSeek-R1、Grok-4.1、Gemini-3 Pro等多种主流大模型。也就是说，你只需购买一个“GPT Plus镜像版”服务，就可以同时体验ChatGPT、Gemini、Grok、DeepSeek等多个旗舰级大模型，整体能力远超仅开通一个Gemini Pro账号。
+目前国内最稳定、口碑最好、体验最佳的Gemini 3 Pro合租方式是使用<a href="https://nf.video/BTgSc">**银河录像局**</a>提供的“GPT Plus镜像版”。虽然该服务名称是GPT Plus镜像版，但本质上这是银河录像局自建的多模型融合镜像系统，支持GPT-5.2、GPT-4o、DeepSeek-R1、Grok-4.1、Gemini-3 Pro等多种主流大模型。也就是说，你只需购买一个“GPT Plus镜像版”服务，就可以同时体验ChatGPT、Gemini、Grok、DeepSeek等多个旗舰级大模型，整体能力远超仅开通一个Gemini Pro账号。
 
 跟市面上的其他Gemini 3 Pro镜像站相比，银河录像局提供的Gemini Pro镜像服务具有以下明显优势：
 
@@ -125,11 +125,11 @@ Gemini Pro代充值尤其适合以下用户：已经有Google账号但不想更�
 
 通过银河录像局来拼车合租Gemini Pro会员的价格也十分便宜，其中银河基础版每月仅需29元，银河标准版每月45元，银河专业版每月99元，现在使用优惠码“ANYOFAI”还可以享受九折优惠。
 
-值得注意的是，拼车合租Gemini Pro会员适合的人群非常广泛，包括想体验Gemini 3 Pro大模型但预算有限的用户；只想使用Gemini 3 Pro大模型、没有谷歌账号的用户；不想折腾Google Pay、信用卡或跨区验证的用户；希望“立即能用”、不想配置任何环境的用户；以及希望同时体验GPT-5.1、DeepSeek-R1、Grok等模型的用户。对于学生、小白、轻量用户和临时需求者来说，Gemini 3 Pro镜像站的体验与性价比都远高于传统共享账号。
+值得注意的是，拼车合租Gemini Pro会员适合的人群非常广泛，包括想体验Gemini 3 Pro大模型但预算有限的用户；只想使用Gemini 3 Pro大模型、没有谷歌账号的用户；不想折腾Google Pay、信用卡或跨区验证的用户；希望“立即能用”、不想配置任何环境的用户；以及希望同时体验GPT-5.2、DeepSeek-R1、Grok等模型的用户。对于学生、小白、轻量用户和临时需求者来说，Gemini 3 Pro镜像站的体验与性价比都远高于传统共享账号。
 
 ![Gemini 3 Pro国内使用教程：拼车合租Gemini Pro会员-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9FGemini%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
-小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3 Pro模型，还能同时解锁GPT-5.1、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
+小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3 Pro模型，还能同时解锁GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
@@ -206,7 +206,7 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 如果你已经拥有自己的Google账号，并且不想丢失原有的对话记录、历史数据、收藏内容、偏好设置等信息，那么Gemini Pro代充值是最合适的选择。通过星际放映厅等平台，你只需要提供Google账号，其余付款和升级流程全部由平台代为完成，几分钟内即可让你的Google账号成功升级到Pro版本，使用体验与自己支付完全一致。
 
-如果你预算有限，或只是想体验Gemini 3 Pro的核心能力而不需要独立账号，那么选择银河录像局提供的Gemini 3 Pro镜像站是性价比最高的方式。Gemini 3 Pro镜像站无需Google账号、无需Google Pay、无需翻墙，只需打开网页即可直接使用Gemini 3 Pro以及GPT-5.1、Grok-4.1、DeepSeek-R1等多个旗舰模型，非常适合学生、小白、轻度使用者或临时需求场景。
+如果你预算有限，或只是想体验Gemini 3 Pro的核心能力而不需要独立账号，那么选择银河录像局提供的Gemini 3 Pro镜像站是性价比最高的方式。Gemini 3 Pro镜像站无需Google账号、无需Google Pay、无需翻墙，只需打开网页即可直接使用Gemini 3 Pro以及GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，非常适合学生、小白、轻度使用者或临时需求场景。
 
 总体来说，在国内使用Gemini 3 Pro并不复杂，用户只需要根据自身需求选择最适合的开通方式即可。无论你是想专业使用多模态能力、想体验新功能，还是只是临时查资料、写文案或做项目，都能顺利、稳定、无障碍地使用Gemini 3 Pro的全部功能。
 
@@ -217,10 +217,10 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
