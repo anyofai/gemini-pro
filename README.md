@@ -61,7 +61,7 @@
 
 对于想要开通Gemini Pro的用户来说，星际放映厅提供的Gemini账号是由平台代为开通的，用户拿到账号后即可直接使用Gemini 3.0 Pro模型，省去了Google Pay、信用卡绑定、地区风控等一系列复杂流程。而且星际放映厅的价格相对友好，购买Gemini 3.0 Pro账号每月仅需185元，**使用优惠码“ANYOFAI”还能享受九折优惠**，折后每月仅需172元。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
 
 除了产品清晰、交付速度快之外，星际放映厅也提供基础的售后保障，例如账号异常可协助处理、使用中出现风控可以联系技术支持等。虽然售后体系不如银河录像局那样“企业化、体系化”，但在同类竞品中仍处于较为稳定的水平，适合预算有限、希望快速开通Gemini Pro的用户选择。
 
