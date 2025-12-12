@@ -71,7 +71,7 @@
 
 ### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球（16元/月）</a>
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-5.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-1.png)
 
 在国内众多提供数字服务的平台中，账号星球属于体量较大、品类覆盖广、交付效率高的综合型账号商城。平台采用自动化系统运行，支持多类账号即时交付，商品分类清晰、选择丰富，售后规则明确，是不少用户在购买各类工具账号时常用的平台之一。
 
@@ -83,7 +83,7 @@
 
 注意：账号星球提供的“Gemini账号购买”服务包括：普通Gemini账号（38元）、Gemini AI Pro(30天)会员账号（199元/月）、Gemini Pro学生教育优惠(12个月)会员账号（199元/12个月）。其中，我们更推荐大家购买Gemini Pro学生教育优惠(12个月)会员账号，该服务由平台直接提供已开通的Gemini Pro成品账号，用户拿到账号后即可直接登录使用，无需绑定海外信用卡、无需Google Pay，也不需要自行处理复杂的开通流程。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-6.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-6-1.png)
 
 在售后保障方面，账号星球为Gemini Pro相关账号提供基础质保服务，例如Gemini Pro学生教育优惠(12个月)会员账号支持20天质保期。若使用过程中遇到地区限制或网络环境不兼容等问题，平台也会提供相应的说明与使用指引。不过，与银河录像局等更偏企业化、人工服务占比更高的平台相比，账号星球更侧重自动交付与规则化流程，售后支持以标准化处理为主，而非深度人工协助，因此更适合具备一定账号使用经验、预算相对有限、希望快速获取成品账号的用户。
 
