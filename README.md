@@ -51,7 +51,7 @@
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
-### Gemini Pro购买平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
+### Gemini Pro购买平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅（172元/月）</a>
 
 ![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
 
