@@ -107,7 +107,7 @@
 
 此外，通过星际放映厅开通Gemini Pro会员的整个过程仅需提供Google账号（无需提供密码），平台会通过官方渠道为账号完成订阅升级。当升级成功后，账号即可直接使用Gemini 3.0 Pro模型，所有数据均保留在用户自己的账号中，与自行支付开通的使用效果完全一致。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro代充值-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-7.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro代充值-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-7-1.png)
 
 值得注意的是，**星际放映厅提供的所有服务均包含全程质保（即包售后）**。如果在使用过程中遇到付款失败、地区限制、模型无法调用或账号升级异常等情况，平台都会协助进行处理。相比需要用户自行应对风控限制、信用卡支付失败或账单地址验证等繁琐流程，代充值方式大幅降低了开通难度，是目前国内用户升级Gemini Pro最稳定、最直接且成功率最高的方式之一。此外，星际放映厅提供的所有服务均**支持开具正规发票，对于企业采购或有开票需求的用户来说也更加友好**。
 
