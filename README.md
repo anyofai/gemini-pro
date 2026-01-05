@@ -1,8 +1,8 @@
-# <p align="center">2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？</p>
+# <p align="center">2026年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？</p>
 
-<p align="center">最近更新于：2025年12月12日</p>
+<p align="center">最近更新于：2026年1月5日</p>
 
-![2025年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png)
+![2026年最新Gemini 3 Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png)
 
 2025年11月18日，Google正式推出全新的旗舰级智能模型Gemini 3 Pro。与上一代相比，Gemini 3 Pro在多模态推理、代码生成、文档解析、视频理解、长文本处理以及综合知识推理等方面都实现了跨代升级，成为目前Google生态体系中最核心的“超级模型”。无论是学术研究、工程开发，还是专业内容创作、商业策略分析或企业级智能应用，Gemini 3 Pro都展现出极高的实用价值。
 
@@ -231,6 +231,6 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2025年国外最受欢迎的视频网站！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
 
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
