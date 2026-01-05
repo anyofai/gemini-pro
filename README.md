@@ -75,7 +75,7 @@
 
 ### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-1.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-2.png)
 
 在国内众多提供数字服务的平台中，账号星球属于体量较大、品类覆盖广、交付效率高的综合型账号商城。平台采用自动化系统运行，支持多类账号即时交付，商品分类清晰、选择丰富，售后规则明确，是不少用户在购买各类工具账号时常用的平台之一。
 
