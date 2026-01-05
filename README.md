@@ -47,6 +47,8 @@
 
 除了提供Gemini Pro成品号和Gemini Pro代充值服务之外，星际放映厅还提供Gemini API相关服务，主要用于协助用户为自己的Google账号完成Google Cloud Platform的开通与激活。该服务会为用户的Google账号提供50美元可用额度，用于后续调用Gemini API，用户无需自行处理GCP开户、账号验证或支付设置等繁琐流程。整个GCP开通及额度激活流程由星际放映厅协助完成，额度直接绑定在用户本人的Google账号中，使用方式与官方渠道保持一致，适合希望使用Gemini API但对相关开通流程不熟悉的用户。
 
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
+
 重要提示：通过星际放映厅购买Gemini Pro账号，**可享受全程质保（即包售后）**。同时，**星际放映厅支持开具正规发票**，对于企业采购或有开票需求的用户来说较为友好。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
