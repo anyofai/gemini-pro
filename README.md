@@ -31,45 +31,47 @@
 
 接下来我们会为大家介绍国内三个最常用、最专业的Gemini Pro账号购买平台，大家可以根据自身需求选择最适合的Gemini Pro购买渠道。
 
-### Gemini Pro购买平台（一）：<a href="https://nf.video/BTgSc">银河录像局（16元/月）</a>
+### Gemini Pro购买平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
+
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
+
+星际放映厅是一家以“业务覆盖广、产品交付快、价格透明、售后服务完善”为特点的综合数字服务平台。作为一家成立于2023年的正规运营平台，星际放映厅已在浙江省完成ICP备案（浙ICP备2023017856号），具备合法的企业主体信息，在国内同类合租与代充服务平台中属于合规性较高的一类。
+
+星际放映厅提供的服务种类较为丰富，既包含ChatGPT、Claude、Gemini、Poe、Midjourney、Sora等热门AI工具，也涵盖Netflix、YouTube Premium、Max、Disney+、Prime Video、Spotify等海外流媒体服务。此外，星际放映厅还提供Apple ID、Google账号等基础账号服务。同时，星际放映厅配备在线客服支持，日常问题、使用指导以及售后处理均可通过客服沟通解决，整体响应速度较快，使用体验相对流畅。
+
+对于需要开通Gemini Pro的用户来说，星际放映厅提供的是已完成订阅升级的Gemini Pro会员账号，用户拿到账号后即可直接使用Gemini 3.0 Pro模型，无需自行处理Google Pay、信用卡绑定或地区风控等复杂流程，使用门槛相对较低。
+
+星际放映厅提供的Gemini Pro成品账号共设有三种套餐，分别为1个月、3个月和12个月。其中，1个月套餐价格为185元/月，使用优惠码“ANYOFAI”可享九折优惠，折后价格为172元/月；12个月套餐价格为158元/月，使用优惠码“ANYOFAI”同样可享九折优惠，**折后价格为148元/月**。综合来看，我们更推荐大家选择12个月套餐，这样不仅可以省去每月续费的麻烦，而且整体性价比也相对更高一些。
+
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
+
+除了提供Gemini Pro成品号和Gemini Pro代充值服务之外，星际放映厅还提供Gemini API相关服务，主要用于协助用户为自己的Google账号完成Google Cloud Platform的开通与激活。该服务会为用户的Google账号提供50美元可用额度，用于后续调用Gemini API，用户无需自行处理GCP开户、账号验证或支付设置等繁琐流程。整个GCP开通及额度激活流程由星际放映厅协助完成，额度直接绑定在用户本人的Google账号中，使用方式与官方渠道保持一致，适合希望使用Gemini API但对相关开通流程不熟悉的用户。
+
+重要提示：通过星际放映厅购买Gemini Pro账号，**可享受全程质保（即包售后）**。同时，**星际放映厅支持开具正规发票**，对于企业采购或有开票需求的用户来说较为友好。
+
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
+### Gemini Pro购买平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 ![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1-1.png)
 
 在国内众多数字工具与流媒体账号服务平台中，银河录像局一直被认为是用户讨论度最高、可信度最强、运营最稳定的平台之一。作为国内少数完成工信部ICP备案、具备实体企业资质的数字服务平台，银河录像局长期保持着稳定、透明、合规的运营模式，再加上完善的售前与售后体系，使其在行业内积累了较高的口碑和用户认可度。
 
-首先，银河录像局由实体公司运营，具备正式的ICP备案信息，拥有完整的企业主体资料和备案记录，是行业中为数不多公开自身运营资质的平台之一。相比市面上大量匿名运营、无备案、无主体的“野鸡平台”，银河录像局的背景更加透明、可信，因此在长期稳定性方面也更具优势，更容易获得用户信任。
+首先，银河录像局由实体公司运营，具备正式的ICP备案信息，拥有完整的企业主体资料和备案记录，也是行业中为数不多公开自身运营资质的平台之一。相比市面上大量匿名运营、无备案、无主体的“野鸡平台”，银河录像局的背景更加透明、可信，因此在长期稳定性方面也更具优势，更容易获得用户信任。
 
-其次，银河录像局覆盖的业务范围较为广泛，包括ChatGPT系列、Claude系列、Gemini系列、Midjourney系列等AI工具服务，以及Netflix、Disney+、HBO Max、Spotify等海外流媒体账号合租服务，同时还提供Apple ID、Google账号、Office 365、软件激活等多种账号相关服务。无论是AI工具账号还是流媒体账号，银河录像局都提供相对完善的异常保障机制，例如账号无法使用时支持免费更换、镜像站服务出现异常可协助处理、使用过程中遇到风控问题可提供相应的技术支持等。此外，银河录像局支持支付宝付款，支付流程相对安全可靠，并注重用户隐私保护，使整体使用体验更加省心。
+其次，银河录像局覆盖的业务范围较为丰富，包括ChatGPT系列、Claude系列、Gemini系列、Midjourney系列等AI工具服务，以及Netflix、Disney+、HBO Max、Spotify等海外流媒体账号合租服务，同时还提供Apple ID、Google账号、Office 365、软件激活等多种账号相关服务。无论是AI工具账号还是流媒体账号，银河录像局都提供相对完善的异常保障机制，例如账号无法使用时支持免费更换、镜像站服务出现异常可协助处理、使用过程中遇到风控问题可提供相应的技术支持等。此外，银河录像局支持支付宝付款，支付流程相对安全可靠，并注重用户隐私保护，使整体使用体验更加省心。
 
 最后，银河录像局针对ChatGPT、Claude、Gemini等主流产品提供了较为完整的服务体系，包括国内镜像服务、原生独立账号合租服务、独立账号购买以及代充值服务等。对于国内用户而言，无需准备海外信用卡，也无需担心账号风控问题，更不必经历复杂繁琐的开通流程。这些原本非常麻烦的步骤均可由平台代为处理，用户只需登录账号即可开始使用，无需在支付或地区限制问题上反复折腾。
 
-重点：银河录像局提供的是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，**年付仅需199元，折合每月约16元**。同时，平台的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
+银河录像局提供的也是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，半年仅需199元，折合每月约33元。同时，银河录像局的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
 
 ![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-1.png)
 
-总体来看，正是因为成熟的运营体系、相对完善的售后服务、全面的产品覆盖范围、稳定的使用体验，以及在Gemini系列服务上的深入支持，银河录像局一直是国内最值得推荐的Gemini Pro购买渠道。
+总体来看，正是因为成熟的运营体系、相对完善的售后服务、全面的产品覆盖范围、稳定的使用体验，以及在Gemini系列服务上的深入支持，银河录像局也一直是国内最值得推荐的Gemini Pro购买渠道之一。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
-### Gemini Pro购买平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅（172元/月）</a>
-
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
-
-星际放映厅是一家“业务覆盖广、产品交付快、价格透明、售后服务完善”的综合数字服务平台。作为一家成立于2023年的正规运营平台，星际放映厅已经在浙江省完成ICP备案（浙ICP备2023017856号），拥有合法的企业主体信息，在国内同类合租与代充服务平台中属于合规性较高的一类。
-
-在提供的业务方面，星际放映厅覆盖的产品非常丰富，既包含ChatGPT、Claude、Gemini、Poe、Midjourney、Sora等热门AI工具，也涵盖Netflix、YouTube Premium、Max、Disney+、Prime Video、Spotify等海外流媒体服务。此外，还提供Apple ID、Google账号等基础账号服务。同时，星际放映厅提供在线客服，日常问题、使用指导、售后处理都能通过客服沟通解决，响应速度较快，整体体验流畅。
-
-对于想要开通Gemini Pro的用户来说，星际放映厅提供的Gemini账号是由平台代为开通的，用户拿到账号后即可直接使用Gemini 3.0 Pro模型，省去了Google Pay、信用卡绑定、地区风控等一系列复杂流程。而且星际放映厅的价格相对友好，购买Gemini 3.0 Pro账号每月仅需185元，**使用优惠码“ANYOFAI”还能享受九折优惠**，折后每月仅需172元。
-
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
-
-除了产品清晰、交付速度快之外，星际放映厅也提供基础的售后保障，例如账号异常可协助处理、使用中出现风控可以联系技术支持等。虽然售后体系不如银河录像局那样“企业化、体系化”，但在同类竞品中仍处于较为稳定的水平，适合预算有限、希望快速开通Gemini Pro的用户选择。
-
-总体来看，星际放映厅的定位更偏向于“高性价比、交付快速、覆盖全面”。无论你是需要购买Gemini Pro成品账号，还是想同时使用ChatGPT、Claude、Midjourney、Grok等多个AI工具，星际放映厅都可以作为一个价格合理、付款便利、服务流程简单的渠道选择。
-
-<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
-
-### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球（16元/月）</a>
+### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>
 
 ![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-1.png)
 
