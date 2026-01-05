@@ -55,7 +55,7 @@
 
 ### Gemini Pro购买平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1-1.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1-2.png)
 
 在国内众多数字工具与流媒体账号服务平台中，银河录像局一直被认为是用户讨论度最高、可信度最强、运营最稳定的平台之一。作为国内少数完成工信部ICP备案、具备实体企业资质的数字服务平台，银河录像局长期保持着稳定、透明、合规的运营模式，再加上完善的售前与售后体系，使其在行业内积累了较高的口碑和用户认可度。
 
@@ -65,9 +65,9 @@
 
 最后，银河录像局针对ChatGPT、Claude、Gemini等主流产品提供了较为完整的服务体系，包括国内镜像服务、原生独立账号合租服务、独立账号购买以及代充值服务等。对于国内用户而言，无需准备海外信用卡，也无需担心账号风控问题，更不必经历复杂繁琐的开通流程。这些原本非常麻烦的步骤均可由平台代为处理，用户只需登录账号即可开始使用，无需在支付或地区限制问题上反复折腾。
 
-银河录像局提供的也是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，半年仅需199元，折合每月约33元。同时，银河录像局的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
+银河录像局提供的也是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，**半年仅需199元，折合每月约33元**。同时，银河录像局的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-1.png)
+![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-2.png)
 
 总体来看，正是因为成熟的运营体系、相对完善的售后服务、全面的产品覆盖范围、稳定的使用体验，以及在Gemini系列服务上的深入支持，银河录像局也一直是国内最值得推荐的Gemini Pro购买渠道之一。
 
