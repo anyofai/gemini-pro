@@ -218,7 +218,7 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 总体来说，在国内使用Gemini 3 Pro并不复杂，用户只需要根据自身需求选择最适合的开通方式即可。无论你是想专业使用多模态能力、想体验新功能，还是只是临时查资料、写文案或做项目，都能顺利、稳定、无障碍地使用Gemini 3 Pro的全部功能。
 
-<p align="center"><a href="https://nf.video/BTgSc">访问银河录像局官网</a>或者<a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">访问账号星球官网</a></p>
+<p align="center"><a href="https://nf.video/BTgSc">访问银河录像局官网</a>或者<a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">访问账号星球官网</a></p>
 
 ## 国内订阅开通Gemini Pro会员相关的其他文章
 
