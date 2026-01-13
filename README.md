@@ -73,7 +73,7 @@
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
-### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>
+### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">账号星球</a>
 
 ![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-2.png)
 
@@ -93,7 +93,7 @@
 
 总体来看，账号星球的核心优势在于商品覆盖范围广、自动发货速度快、价格透明、操作流程简单。对于希望直接获得可登录的Gemini Pro成品账号、快速体验Gemini 3.0 Pro，并尽量减少操作步骤的用户而言，账号星球是一个上手门槛低、流程清晰、效率较高的可选渠道。
 
-<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
+<p align="center"><a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">立即访问账号星球官网</a></p>
 
 ## 方法二：为你的Gemini Pro代充值
 
