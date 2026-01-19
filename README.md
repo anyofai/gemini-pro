@@ -183,7 +183,7 @@
 
 总体来看，Gemini学生认证虽然是官方渠道，但流程复杂、要求苛刻，且在后续使用过程中仍存在较高的风控和封号风险，并不适合大多数国内用户。对于希望省时、省力并稳定使用Gemini学生优惠的用户来说，直接通过账号星球购买已配置好的Gemini学生教育优惠账号，是目前性价比最高、操作最简单的方案。若你更看重Gemini Pro会员的功能完整性或账号稳定性，也可以根据自身需求，选择其他Gemini Pro会员购买方式。
 
-## 国内订阅开通Gemini Pro常见问题
+## 国内充值Gemini Pro常见问题解答
 
 ### Google Gemini Pro价格是多少？
 
@@ -248,7 +248,7 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 <p align="center"><a href="https://nf.video/BTgSc">访问银河录像局官网</a>或者<a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">访问账号星球官网</a></p>
 
-## 总结：国内如何使用Gemini 3 Pro？
+## 总结：国内如何使用Gemini Pro会员？
 
 对于国内用户而言，想要顺利使用Gemini 3 Pro并不难，关键是绕开国内网络环境与支付限制，选择最适合自己的Gemini Pro开通方式。换句话说就是，国内用户使用Gemini 3 Pro通常有三种可行路径：购买Gemini Pro账号、使用Gemini Pro代充值服务以及使用Gemini 3 Pro镜像站，每一种方式都有不同的适用人群和优势。
 
@@ -262,7 +262,7 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 <p align="center"><a href="https://nf.video/BTgSc">访问银河录像局官网</a>或者<a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">访问账号星球官网</a></p>
 
-## 国内订阅开通Gemini Pro会员相关的其他文章
+## Gemini充值/购买相关的其他文章：
 
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
