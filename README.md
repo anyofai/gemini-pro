@@ -16,8 +16,10 @@
 - [Gemini Pro购买平台（三）：账号星球](#gemini-pro购买平台三账号星球)
 - **[方法二：为你的Gemini Pro代充值](#方法二为你的gemini-pro代充值)**
 - **[方法三：拼车合租Gemini Pro会员](#方法三拼车合租gemini-pro会员)**
-- **[国内订阅开通Gemini Pro常见问题](#国内订阅开通gemini-pro常见问题)**
-- **[总结：国内如何使用Gemini 3 Pro](#总结国内如何使用gemini-3-pro)**
+- **[若提示此账号无法订阅Google AI方案怎么办？](#若提示此账号无法订阅google-ai方案怎么办)**
+- **[如何快速获取Gemini学生教育优惠账号？](#如何快速获取gemini学生教育优惠账号)**
+- **[国内充值Gemini Pro常见问题解答](#国内充值gemini-pro常见问题解答)**
+- **[总结：国内如何使用Gemini Pro会员？](#总结国内如何使用gemini-pro会员)**
 
 </blockquote>
 
