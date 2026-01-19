@@ -155,7 +155,7 @@
 
 若你在订阅Gemini Pro会员时遇到了“此账号无法订阅Google AI方案”的提示，请尝试以下几种相对可行的解决方案：
 
-**第一种方式，直接购买可用的成品账号**。如果你想订阅的是Gemini Pro会员，那么最简单直接的办法是通过**星际放映厅**平台，直接购买Gemini Pro成品账号，或为现有Gemini账号代充值，亦或选择Gemini Pro拼车合租服务。这些平台通常会提前处理好地区、账号和支付等关键问题，用户可以直接使用Gemini Pro的全部功能，而无需自行反复配置网络环境或折腾支付流程。这也是目前开通Gemini Pro会员成功率较高、操作成本相对较低的解决方案，适合希望尽快使用Gemini Pro的普通用户。
+**第一种方式，直接购买可用的成品账号**。如果你想订阅Gemini Pro会员，那么最简单直接的办法是通过**星际放映厅**等平台，直接购买Gemini Pro成品账号，或为现有Gemini账号代充值，亦或选择Gemini Pro拼车合租服务。这些平台通常会提前处理好地区、账号和支付等关键问题，用户可以直接使用Gemini Pro的全部功能，而无需自行反复配置网络环境或折腾支付流程。这也是目前开通Gemini Pro会员成功率较高、操作成本相对较低的解决方案，适合希望尽快使用Gemini Pro的普通用户。
 
 ![若提示此账号无法订阅Google AI方案怎么办:直接购买可用的成品账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
 
