@@ -35,7 +35,7 @@
 
 ### Gemini Pro购买平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
+![Gemini Pro购买平台：星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
 
 星际放映厅是一家以“业务覆盖广、产品交付快、价格透明、售后服务完善”为特点的综合数字服务平台。作为一家成立于2023年的正规运营平台，星际放映厅已在浙江省完成ICP备案（浙ICP备2023017856号），具备合法的企业主体信息，在国内同类合租与代充服务平台中属于合规性较高的一类。
 
@@ -45,11 +45,11 @@
 
 星际放映厅提供的Gemini Pro成品账号共设有三种套餐，分别为1个月、3个月和12个月。其中，1个月套餐价格为185元/月，使用优惠码“ANYOFAI”可享九折优惠，折后价格为172元/月；12个月套餐价格为158元/月，使用优惠码“ANYOFAI”同样可享九折优惠，**折后价格为148元/月**。综合来看，我们更推荐大家选择12个月套餐，这样不仅可以省去每月续费的麻烦，而且整体性价比也相对更高一些。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
+![Gemini Pro购买平台：星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
 
 除了提供Gemini Pro成品号和Gemini Pro代充值服务之外，星际放映厅还提供Gemini API相关服务，主要用于协助用户为自己的Google账号完成Google Cloud Platform的开通与激活。该服务会为用户的Google账号提供50美元可用额度，用于后续调用Gemini API，用户无需自行处理GCP开户、账号验证或支付设置等繁琐流程。整个GCP开通及额度激活流程由星际放映厅协助完成，额度直接绑定在用户本人的Google账号中，使用方式与官方渠道保持一致，适合希望使用Gemini API但对相关开通流程不熟悉的用户。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
+![Gemini Pro购买平台：星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
 
 重要提示：通过星际放映厅购买Gemini Pro账号，**可享受全程质保（即包售后）**。同时，**星际放映厅支持开具正规发票**，对于企业采购或有开票需求的用户来说较为友好。
 
@@ -57,7 +57,7 @@
 
 ### Gemini Pro购买平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1-2.png)
+![Gemini Pro购买平台：银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1-2.png)
 
 在国内众多数字工具与流媒体账号服务平台中，银河录像局一直被认为是用户讨论度最高、可信度最强、运营最稳定的平台之一。作为国内少数完成工信部ICP备案、具备实体企业资质的数字服务平台，银河录像局长期保持着稳定、透明、合规的运营模式，再加上完善的售前与售后体系，使其在行业内积累了较高的口碑和用户认可度。
 
@@ -69,7 +69,7 @@
 
 银河录像局提供的也是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，**半年仅需199元，折合每月约33元**。同时，银河录像局的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-2.png)
+![Gemini Pro购买平台：银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-2.png)
 
 总体来看，正是因为成熟的运营体系、相对完善的售后服务、全面的产品覆盖范围、稳定的使用体验，以及在Gemini系列服务上的深入支持，银河录像局也一直是国内最值得推荐的Gemini Pro购买渠道之一。
 
@@ -77,7 +77,7 @@
 
 ### Gemini Pro购买平台（三）：<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">账号星球</a>
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-2.png)
+![Gemini Pro购买平台：账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5-2.png)
 
 在国内众多提供数字服务的平台中，账号星球属于体量较大、品类覆盖广、交付效率高的综合型账号商城。平台采用自动化系统运行，支持多类账号即时交付，商品分类清晰、选择丰富，售后规则明确，是不少用户在购买各类工具账号时常用的平台之一。
 
@@ -89,7 +89,7 @@
 
 注意：账号星球提供的“Gemini账号购买”服务包括：普通Gemini账号（38元）、Gemini AI Pro(30天)会员账号（199元/月）、**Gemini Pro学生教育优惠(12个月)会员账号（199元/12个月）**。其中，我们更推荐大家购买Gemini Pro学生教育优惠(12个月)会员账号，该服务由平台直接提供已开通的Gemini Pro成品账号，用户拿到账号后即可直接登录使用，无需绑定海外信用卡、无需Google Pay，也不需要自行处理复杂的开通流程。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro购买平台-账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-6-1.png)
+![Gemini Pro购买平台：账号星球](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-6-1.png)
 
 在售后保障方面，账号星球为Gemini Pro相关账号提供基础质保服务，例如Gemini Pro学生教育优惠(12个月)会员账号支持20天质保期。若使用过程中遇到地区限制或网络环境不兼容等问题，平台也会提供相应的说明与使用指引。不过，与银河录像局等更偏企业化、人工服务占比更高的平台相比，账号星球更侧重自动交付与规则化流程，售后支持以标准化处理为主，而非深度人工协助，因此更适合具备一定账号使用经验、预算相对有限、希望快速获取成品账号的用户。
 
@@ -111,7 +111,7 @@
 
 此外，通过星际放映厅开通Gemini Pro会员的整个过程仅需提供Google账号（无需提供密码），平台会通过官方渠道为账号完成订阅升级。当升级成功后，账号即可直接使用Gemini 3.0 Pro模型，所有数据均保留在用户自己的账号中，与自行支付开通的使用效果完全一致。
 
-![Gemini 3 Pro国内使用教程：Gemini Pro代充值-星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-7-1.png)
+![Gemini充值平台：星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-7-1.png)
 
 值得注意的是，星际放映厅提供的所有服务均包含**全程质保（即包售后）**。如果在使用过程中遇到付款失败、地区限制、模型无法调用或账号升级异常等情况，平台都会协助进行处理。相比需要用户自行应对风控限制、信用卡支付失败或账单地址验证等繁琐流程，代充值方式大幅降低了开通难度，是目前国内用户升级Gemini Pro最稳定、最直接且成功率最高的方式之一。此外，星际放映厅提供的所有服务均**支持开具正规发票**，对于企业采购或有开票需求的用户来说也更加友好。
 
@@ -137,7 +137,7 @@
 
 值得注意的是，拼车合租Gemini Pro会员适合的人群非常广泛，包括想体验Gemini 3 Pro大模型但预算有限的用户；只想使用Gemini 3 Pro大模型、没有谷歌账号的用户；不想折腾Google Pay、信用卡或跨区验证的用户；希望“立即能用”、不想配置任何环境的用户；以及希望同时体验GPT-5.2、DeepSeek-R1、Grok等模型的用户。对于学生、小白、轻量用户和临时需求者来说，Gemini 3 Pro镜像站的体验与性价比都远高于传统共享账号。
 
-![Gemini 3 Pro国内使用教程：拼车合租Gemini Pro会员-银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9FGemini%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
+![拼车合租Gemini Pro会员平台：银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9FGemini%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
 小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3 Pro模型，还能同时解锁GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
 
@@ -159,15 +159,15 @@
 
 **第一种方式，直接购买可用的成品账号**。如果你想订阅Gemini Pro会员，那么最简单直接的办法是通过**星际放映厅**等平台，直接购买Gemini Pro成品账号，或为现有Gemini账号代充值，亦或选择Gemini Pro拼车合租服务。这些平台通常会提前处理好地区、账号和支付等关键问题，用户可以直接使用Gemini Pro的全部功能，而无需自行反复配置网络环境或折腾支付流程。这也是目前开通Gemini Pro会员成功率较高、操作成本相对较低的解决方案，适合希望尽快使用Gemini Pro的普通用户。
 
-![若提示此账号无法订阅Google AI方案怎么办:直接购买可用的成品账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
+![若此账号无法订阅Google AI方案怎么办:直接购买可用的成品账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
 
 **第二种方式，通过API方案替代官方订阅**。如果你的主要需求是调用Gemini模型进行开发、编程或自动化任务，而并非使用Gemini的网页版功能，那么可以选择通过API方案来替代官方订阅。这种方式不依赖Google前端的订阅体系，也不会受到账号地区限制，整体稳定性和可控性更高。你可以选择由**星际放映厅**提供的Gemini API相关服务。该服务的核心作用是协助用户为自己已有的Google账号完成Google Cloud Platform（GCP）的开通与激活。当开通完成后，账号将获得50美元的GCP可用额度，可直接用于调用Gemini API。在整个过程中，用户无需自行处理GCP开户、账号验证、信用卡绑定或支付设置等复杂步骤。GCP的开通及额度激活均由平台协助完成，额度直接绑定在用户本人的Google账号中，后续使用方式与官方API调用流程保持一致。这种方式非常适合希望使用Gemini API，但对GCP开通流程不熟悉，或无法完成官方订阅的用户。
 
-![若提示此账号无法订阅Google AI方案怎么办:通过API方案替代官方订阅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
+![若此账号无法订阅Google AI方案怎么办:通过API方案替代官方订阅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
 
 **第三种方式，重新注册一个全新的Google账号**。从理论上来说，也可以通过重新注册一个全新的Google账号来尝试完成Gemini Pro订阅。这种方式通常需要同时满足多个条件，包括使用稳定的支持地区网络环境、绑定对应国家的信用卡，并确保设备环境相对干净。然而，这种做法整体成本较高，实际失败率也不低，一旦操作不当，仍有可能再次触发Google的风控机制，因此并不适合大多数普通用户。需要注意的是，如果你不想自行注册Google账号，也可以选择通过**星际放映厅**直接获取一个全新的Google账号作。
 
-![若提示此账号无法订阅Google AI方案怎么办:重新注册一个全新的Google账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![若此账号无法订阅Google AI方案怎么办:重新注册一个全新的Google账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 总体来看，“此账号无法订阅Google AI方案”并不是一个可以通过简单操作解决的问题，而是Google基于地区限制、账号资质以及支付风控等多方面因素作出的综合限制结果。对于中国大陆用户来说，若强行通过官方订阅流程尝试解决，不仅成本较高，而且成功率也相对较低。结合实际情况，更为可行的做法是直接购买Gemini Pro成品账号，或选择Gemini代充值服务，亦可使用Gemini Pro合租方案作为替代。
 
