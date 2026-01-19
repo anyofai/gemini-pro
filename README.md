@@ -21,7 +21,7 @@
 
 </blockquote>
 
-**注意**：本文还会为大家详细解答Google Gemini Pro的价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、当遇到提示**此账号无法订阅Google AI方案**时怎么办、如何快速获取**Gemini学生教育优惠账号**、Gemini 3 Pro是否有使用次数限制、Gemini 3 Pro无法使用了该怎么办等常见问题。
+**注意**：本文还会为大家详细解答Google Gemini Pro价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、当遇到提示**此账号无法订阅Google AI方案**时怎么办、如何获取**Gemini学生教育优惠账号**、Gemini 3 Pro是否有使用次数限制、Gemini 3 Pro无法使用了该怎么办等常见问题。
 
 ## 方法一：直接购买Gemini Pro账号
 
