@@ -179,7 +179,7 @@
 
 在这种情况下，最简单、最直接的解决方案，是通过专业平台直接获取已经配置好的Gemini学生优惠账号。
 
-目前，最简单省事的方式是通过“**<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">账号星球</a>**”这个平台直接购买Gemini学生教育优惠账号。账号星球提供的Gemini学生优惠账号价格为199元人民币，可直接使用12个月，无需自行进行学生认证，也不需要折腾复杂的注册和验证流程。如果按月计算的话，**每月仅约16.5元**，整体成本非常低，同时也省去了大量时间和精力，适合希望快速、低成本使用Gemini学生优惠账号的用户。
+目前，最简单省事的方式是通过“**<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">账号星球</a>**”这个平台直接购买Gemini学生教育优惠账号。账号星球提供的Gemini学生优惠账号价格为199元人民币，**可直接使用12个月**，无需自行进行学生认证，也不需要折腾复杂的注册和验证流程。如果按月计算的话，**每月仅约16.5元**，整体成本非常低，同时也省去了大量时间和精力，适合希望快速、低成本使用Gemini学生优惠账号的用户。
 
 ![如何快速获取Gemini学生教育优惠账号：通过账号星球购买Gemini学生教育优惠账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-6-1.png)
 
