@@ -16,7 +16,7 @@
 - [Gemini Pro购买平台（三）：账号星球](#gemini-pro购买平台三账号星球)
 - **[方法二：为你的Gemini Pro代充值](#方法二为你的gemini-pro代充值)**
 - **[方法三：拼车合租Gemini Pro会员](#方法三拼车合租gemini-pro会员)**
-- **[若提示此账号无法订阅Google AI方案怎么办？](#若提示此账号无法订阅google-ai方案怎么办)**
+- **[若此账号无法订阅Google AI方案怎么办？](#若此账号无法订阅google-ai方案怎么办)**
 - **[如何快速获取Gemini学生教育优惠账号？](#如何快速获取gemini学生教育优惠账号)**
 - **[国内充值Gemini Pro常见问题解答](#国内充值gemini-pro常见问题解答)**
 - **[总结：国内如何使用Gemini Pro会员？](#总结国内如何使用gemini-pro会员)**
@@ -143,7 +143,7 @@
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
-## 若提示此账号无法订阅Google AI方案怎么办？
+## 若此账号无法订阅Google AI方案怎么办？
 
 在订阅Gemini Pro会员时，不少用户会遇到系统提示“此账号无法订阅Google AI方案”的情况。需要先明确的是，这种提示并非网页错误或临时故障，而是Google在订阅阶段主动进行账号校验后给出的限制结果。那么，为什么会出现“此账号无法订阅Google AI方案”的提示呢？
 
