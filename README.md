@@ -1,6 +1,6 @@
 # <p align="center">2026年最新Gemini Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？提示此账号无法订阅Google AI方案怎么办？</p>
 
-<p align="center">最近更新于：2026年1月25日</p>
+<p align="center">最近更新于：2026年2月11日</p>
 
 ![2026年最新Gemini Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？提示此账号无法订阅Google AI方案怎么办？](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png)
 
