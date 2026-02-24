@@ -4,11 +4,11 @@
 
 ![2026年最新Gemini Pro国内使用教程：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？提示此账号无法订阅Google AI方案怎么办？](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini%20Pro%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png)
 
-2025年11月18日，Google正式推出全新的旗舰级智能模型Gemini 3 Pro。与上一代相比，Gemini 3 Pro在多模态推理、代码生成、文档解析、视频理解、长文本处理以及综合知识推理等方面都实现了跨代升级，成为目前Google生态体系中最核心的“超级模型”。无论是学术研究、工程开发，还是专业内容创作、商业策略分析或企业级智能应用，Gemini 3 Pro都展现出极高的实用价值。
+2026年2月19日，Google正式推出全新的旗舰级智能模型Gemini 3.1 Pro。与上一代相比，Gemini 3.1 Pro在多模态推理、代码生成、文档解析、视频理解、长文本处理以及综合知识推理等方面都实现了跨代升级，成为目前Google生态体系中最核心的“超级模型”。无论是学术研究、工程开发，还是专业内容创作、商业策略分析或企业级智能应用，Gemini 3.1 Pro都展现出极高的实用价值。
 
 <blockquote>
 
-非常遗憾的是，由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3 Pro国内使用教程，包括**拼车合租Gemini Pro会员、购买Gemini Pro账号，以及为你的Gemini Pro代充值**，大家可以根据自己的实际需求选择合适的方案。
+非常遗憾的是，由于各种限制，国内用户无法直接订阅Gemini Pro会员。为了帮助大家顺利开通Gemini Pro会员，本文将详细讲解Gemini 3.1 Pro国内使用教程，包括**拼车合租Gemini Pro会员、购买Gemini Pro账号，以及为你的Gemini Pro代充值**，大家可以根据自己的实际需求选择合适的方案。
 
 - **[方法一：直接购买Gemini Pro账号](#方法一直接购买gemini-pro账号)**
 - [Gemini Pro购买平台（一）：星际放映厅](#gemini-pro购买平台一星际放映厅)
@@ -23,11 +23,11 @@
 
 </blockquote>
 
-**注意**：本文还会为大家详细解答Google Gemini Pro价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、当遇到提示**此账号无法订阅Google AI方案**时怎么办、如何获取**Gemini学生教育优惠账号**、Gemini 3 Pro是否有使用次数限制、Gemini 3 Pro无法使用了该怎么办等常见问题。
+**注意**：本文还会为大家详细解答Google Gemini Pro价格是多少、Google Gemini Pro官网是哪个、如何下载Google Gemini客户端、当遇到提示**此账号无法订阅Google AI方案**时怎么办、如何获取**Gemini学生教育优惠账号**、Gemini 3.1 Pro是否有使用次数限制、Gemini 3.1 Pro无法使用了该怎么办等常见问题。
 
 ## 方法一：直接购买Gemini Pro账号
 
-对于绝大多数国内用户而言，直接购买Gemini Pro账号是最省心、最可靠、最安全、最稳定的方式。因为当你完成Gemini Pro购买后，只需登录即可直接使用所有Gemini 3 Pro功能，不需要信用卡，不需要Google Pay，不需要支付验证，也不需要处理任何风控问题，更无需自己反复折腾。
+对于绝大多数国内用户而言，直接购买Gemini Pro账号是最省心、最可靠、最安全、最稳定的方式。因为当你完成Gemini Pro购买后，只需登录即可直接使用所有Gemini 3.1 Pro功能，不需要信用卡，不需要Google Pay，不需要支付验证，也不需要处理任何风控问题，更无需自己反复折腾。
 
 这种方式特别适合从未开通过Gemini的小白用户、没有国际信用卡的用户、需要长期稳定使用的专业人士，以及希望在Google全家桶中完整使用Pro功能的用户。而且Gemini Pro账号是你独享的，并非共享账号，这意味着使用过程中会更稳定、更安全，也更适合长期的生产力使用场景，不会出现挤号或限流等问题。
 
@@ -67,7 +67,7 @@
 
 最后，银河录像局针对ChatGPT、Claude、Gemini等主流产品提供了较为完整的服务体系，包括国内镜像服务、原生独立账号合租服务、独立账号购买以及代充值服务等。对于国内用户而言，无需准备海外信用卡，也无需担心账号风控问题，更不必经历复杂繁琐的开通流程。这些原本非常麻烦的步骤均可由平台代为处理，用户只需登录账号即可开始使用，无需在支付或地区限制问题上反复折腾。
 
-银河录像局提供的也是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，**半年仅需199元，折合每月约33元**。同时，银河录像局的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
+银河录像局提供的也是已开通好的Gemini Pro独立账号，用户拿到账号后即可登录并使用Gemini 3.1 Pro的全部功能，无需绑定信用卡，也不需要进行额外验证，非常适合追求稳定性、注重隐私、并希望长期使用Gemini Pro的用户。银河录像局提供的Gemini Pro账号价格也非常有竞争力，**半年仅需199元，折合每月约33元**。同时，银河录像局的售后保障较为明确，使用过程中如出现无法登录、功能异常或模型调用受限等情况，均可通过售后渠道进行处理或更换。
 
 ![Gemini Pro购买平台：银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-2.png)
 
@@ -121,11 +121,11 @@
 
 ## 方法三：拼车合租Gemini Pro会员
 
-如果你的预算有限，或者只是想体验一下Gemini 3 Pro的强大功能，那么拼车合租Gemini Pro会员是目前性价比最高的方式之一。但需要特别注意，真正靠谱的合租方式绝不是“多人共用一个Google账号”。这种做法风险极高，非常容易触发风控、封号、强制退出登录等问题，无法长期稳定使用。
+如果你的预算有限，或者只是想体验一下Gemini 3.1 Pro的强大功能，那么拼车合租Gemini Pro会员是目前性价比最高的方式之一。但需要特别注意，真正靠谱的合租方式绝不是“多人共用一个Google账号”。这种做法风险极高，非常容易触发风控、封号、强制退出登录等问题，无法长期稳定使用。
 
-目前国内最稳定、口碑最好、体验最佳的Gemini 3 Pro合租方式是使用<a href="https://nf.video/BTgSc">**银河录像局**</a>提供的“GPT Plus镜像版”。虽然该服务名称是GPT Plus镜像版，但本质上这是银河录像局自建的多模型融合镜像系统，支持GPT-5.2、GPT-4o、DeepSeek-R1、Grok-4.1、Gemini-3 Pro等多种主流大模型。也就是说，你只需购买一个“GPT Plus镜像版”服务，就可以同时体验ChatGPT、Gemini、Grok、DeepSeek等多个旗舰级大模型，整体能力远超仅开通一个Gemini Pro账号。
+目前国内最稳定、口碑最好、体验最佳的Gemini 3.1 Pro合租方式是使用<a href="https://nf.video/BTgSc">**银河录像局**</a>提供的“GPT Plus镜像版”。虽然该服务名称是GPT Plus镜像版，但本质上这是银河录像局自建的多模型融合镜像系统，支持GPT-5.2、GPT-4o、DeepSeek-R1、Grok-4.1、Gemini-3 Pro等多种主流大模型。也就是说，你只需购买一个“GPT Plus镜像版”服务，就可以同时体验ChatGPT、Gemini、Grok、DeepSeek等多个旗舰级大模型，整体能力远超仅开通一个Gemini Pro账号。
 
-跟市面上的其他Gemini 3 Pro镜像站相比，银河录像局提供的Gemini Pro镜像服务具有以下明显优势：
+跟市面上的其他Gemini 3.1 Pro镜像站相比，银河录像局提供的Gemini Pro镜像服务具有以下明显优势：
 
 * **无需Google账号**：不需要注册谷歌账号，也无需准备邮箱、手机号或身份资料，新手用户也能直接使用。
 * **无需海外信用卡**：不依赖谷歌扣费体系，因此不会出现支付失败、账单地址不匹配或信用卡风控等问题。
@@ -135,11 +135,11 @@
 
 通过银河录像局来拼车合租Gemini Pro会员的价格也十分便宜，其中银河基础版每月仅需29元，银河标准版每月45元，银河专业版每月99元，现在使用优惠码“ANYOFAI”还可以享受九折优惠。
 
-值得注意的是，拼车合租Gemini Pro会员适合的人群非常广泛，包括想体验Gemini 3 Pro大模型但预算有限的用户；只想使用Gemini 3 Pro大模型、没有谷歌账号的用户；不想折腾Google Pay、信用卡或跨区验证的用户；希望“立即能用”、不想配置任何环境的用户；以及希望同时体验GPT-5.2、DeepSeek-R1、Grok等模型的用户。对于学生、小白、轻量用户和临时需求者来说，Gemini 3 Pro镜像站的体验与性价比都远高于传统共享账号。
+值得注意的是，拼车合租Gemini Pro会员适合的人群非常广泛，包括想体验Gemini 3.1 Pro大模型但预算有限的用户；只想使用Gemini 3.1 Pro大模型、没有谷歌账号的用户；不想折腾Google Pay、信用卡或跨区验证的用户；希望“立即能用”、不想配置任何环境的用户；以及希望同时体验GPT-5.2、DeepSeek-R1、Grok等模型的用户。对于学生、小白、轻量用户和临时需求者来说，Gemini 3.1 Pro镜像站的体验与性价比都远高于传统共享账号。
 
 ![拼车合租Gemini Pro会员平台：银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9FGemini%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
-小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3 Pro模型，还能同时解锁GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
+小结：如果你追求更高的灵活性，不想处理谷歌支付，也不需要独立账号，那么银河录像局提供的ChatGPT Plus镜像版是最省心、最稳定、最便宜、最容易上手的Gemini Pro替代方案。它不仅可以稳定使用Gemini 3.1 Pro模型，还能同时解锁GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，整体性价比在所有方式中最高。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
@@ -206,9 +206,9 @@
 此外，用户在决定订阅Gemini Pro会员时还应注意以下几点：
 
 * Gemini Pro订阅通常为自动续费，用户需确认能否随时取消自动续费，以避免产生不必要费用。
-* 在订阅Gemini Pro会员前，需要核实所使用的模型版本（例如是否为Gemini 3 Pro或更高版本）以及对应的服务范围，因为部分渠道虽然标注为“Gemini Pro”，但实际模型版本可能受限。
+* 在订阅Gemini Pro会员前，需要核实所使用的模型版本（例如是否为Gemini 3.1 Pro或更高版本）以及对应的服务范围，因为部分渠道虽然标注为“Gemini Pro”，但实际模型版本可能受限。
 * 在国内使用时，还需考虑科学上网环境、IP地区、账号地域限制、服务稳定性及客服支持等因素，这些都会影响实际使用体验与成本。
-* 如果选择通过第三方代充、合租或镜像方式开通Gemini 3 Pro会员，则应评估其有效期限、账号共享情况、售后保障、密码安全与隐私风险等问题。
+* 如果选择通过第三方代充、合租或镜像方式开通Gemini 3.1 Pro会员，则应评估其有效期限、账号共享情况、售后保障、密码安全与隐私风险等问题。
 
 总而言之，虽然官方为Gemini Pro设定的价格为19.99美元/月，但国内用户若无法通过官方渠道支付，只能借助第三方服务时，实际成本与使用体验都可能与官方价格存在一定差异。
 
@@ -228,27 +228,27 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 * **安卓设备下载Google Gemini的方法**：如果你使用的是安卓手机或平板，并且设备能够正常访问Google Play，那么可以直接在Google Play中搜索“Gemini”或“Google Gemini”并下载安装。在安装完成后登录你的Google账号即可正常使用Gemini和Gemini Pro的全部功能。需要注意的是，如果你的Android设备在国内使用，必须准备可以访问Google Play的网络环境，否则可能无法搜索到应用或无法正常下载。
 
-* **苹果设备下载Google Gemini的方法**：由于Gemini App尚未在中国区App Store上架，iPhone和iPad用户必须使用美区Apple ID才能下载。最简单的方式是通过“<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-apple-id">**账号星球**</a>”获取一个已配置好的美区Apple ID，然后在设备上退出原本的Apple ID并登录美区Apple ID。进入美区App Store后，搜索“Gemini”即可下载官方Google Gemini客户端。在安装完成后，只需重新登录你的Google账号，即可使用Gemini Pro和Gemini 3 Pro等全部功能。
+* **苹果设备下载Google Gemini的方法**：由于Gemini App尚未在中国区App Store上架，iPhone和iPad用户必须使用美区Apple ID才能下载。最简单的方式是通过“<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-apple-id">**账号星球**</a>”获取一个已配置好的美区Apple ID，然后在设备上退出原本的Apple ID并登录美区Apple ID。进入美区App Store后，搜索“Gemini”即可下载官方Google Gemini客户端。在安装完成后，只需重新登录你的Google账号，即可使用Gemini Pro和Gemini 3.1 Pro等全部功能。
 
-### Gemini 3 Pro有使用次数限制吗？
+### Gemini 3.1 Pro有使用次数限制吗？
 
-从Google官方的服务机制来看，Gemini 3 Pro本身并不存在“明确的固定调用次数限制”，但它确实会根据用户的订阅级别、模型负载、系统风险控制等因素，实行“动态调用上限”与“使用频率限制”。换句话说，你不会在界面上看到具体的调用次数数字，但在密集调用、长文本推理、多模态处理或高负载任务中，系统可能会出现一定的频率限制或临时额度限制。一般而言，Gemini 3 Pro的使用限制主要体现在以下几个方面：
+从Google官方的服务机制来看，Gemini 3.1 Pro本身并不存在“明确的固定调用次数限制”，但它确实会根据用户的订阅级别、模型负载、系统风险控制等因素，实行“动态调用上限”与“使用频率限制”。换句话说，你不会在界面上看到具体的调用次数数字，但在密集调用、长文本推理、多模态处理或高负载任务中，系统可能会出现一定的频率限制或临时额度限制。一般而言，Gemini 3.1 Pro的使用限制主要体现在以下几个方面：
 
 * 高频调用后的临时限流：当用户在短时间内连续提交大量任务时，Gemini系统可能会触发限流机制，例如提示“请求过于频繁”或暂时无法处理新的请求。这类情况通常在等待数十秒至数分钟后即可恢复。
 
-* 较大的任务可能触发风控：Gemini 3 Pro可以处理长文本、多段落推理、代码生成和多模态解析，但如果内容过长或调用量过大，系统可能会提示“任务超出处理范围”或自动拆分任务。
+* 较大的任务可能触发风控：Gemini 3.1 Pro可以处理长文本、多段落推理、代码生成和多模态解析，但如果内容过长或调用量过大，系统可能会提示“任务超出处理范围”或自动拆分任务。
 
 * 不同地区会影响调用体验：国内用户由于需要使用科学上网访问Google服务，如果网络波动、IP频繁变化或线路质量不佳，也可能导致模型调用受阻，从而误以为是使用次数限制。
 
 * 镜像服务会存在调用限制：如果用户使用的是银河录像局、星际放映厅、账号星球等平台提供的代开通或镜像站服务，那么具体的调用次数、每日额度、模型频率限制会根据平台的服务规则有所不同。例如镜像站可能会根据套餐提供每天不同的模型调用次数。
 
-总结：Gemini 3 Pro不是“固定次数限制”，而是“动态调用限制”。也就是说，Google官方不会告诉你“每天最多用多少次”，但系统会根据你的使用频率、任务大小、IP环境和后台负载进行动态调整。正常使用不会受到明显影响，只在极端高频调用或大规模任务中可能遇到限流提示。对于大部分用户来说，Gemini 3 Pro在合理使用范围内相当于“无限次”调用，只要调用频率和任务规模不过度，就不会触发限制。
+总结：Gemini 3.1 Pro不是“固定次数限制”，而是“动态调用限制”。也就是说，Google官方不会告诉你“每天最多用多少次”，但系统会根据你的使用频率、任务大小、IP环境和后台负载进行动态调整。正常使用不会受到明显影响，只在极端高频调用或大规模任务中可能遇到限流提示。对于大部分用户来说，Gemini 3.1 Pro在合理使用范围内相当于“无限次”调用，只要调用频率和任务规模不过度，就不会触发限制。
 
-### Gemini 3 Pro无法使用了怎么办？
+### Gemini 3.1 Pro无法使用了怎么办？
 
-国内用户经常会遇到“Gemini 3 Pro无法使用了”的情况，包括页面打不开、无法升级Pro、功能受限或Google账号被风控。其实大多数问题并不是Gemini本身的故障，而是由国内网络环境、支付体系限制、账号地区不匹配或风控机制触发造成的。
+国内用户经常会遇到“Gemini 3.1 Pro无法使用了”的情况，包括页面打不开、无法升级Pro、功能受限或Google账号被风控。其实大多数问题并不是Gemini本身的故障，而是由国内网络环境、支付体系限制、账号地区不匹配或风控机制触发造成的。
 
-当你发现Gemini网页无法加载、页面一直空白、内容无法刷新，或浏览器无法正常进入gemini.google.com时，这通常是由于国内网络环境造成的。因为Google服务在中国大陆无法直接访问，如果你使用的科学上网工具不稳定、IP频繁变动，或当前节点对Google支持较差，就很容易出现无法加载页面的问题。最好的解决方法是切换更稳定的科学上网线路，优先选择美国IP，并尽量保持网络环境一致。如果你不想自己折腾网络环境，也可以直接使用**银河录像局**提供的Gemini 3 Pro镜像站，不需要Google账号、不需要翻墙，在国内即可正常访问和使用。
+当你发现Gemini网页无法加载、页面一直空白、内容无法刷新，或浏览器无法正常进入gemini.google.com时，这通常是由于国内网络环境造成的。因为Google服务在中国大陆无法直接访问，如果你使用的科学上网工具不稳定、IP频繁变动，或当前节点对Google支持较差，就很容易出现无法加载页面的问题。最好的解决方法是切换更稳定的科学上网线路，优先选择美国IP，并尽量保持网络环境一致。如果你不想自己折腾网络环境，也可以直接使用**银河录像局**提供的Gemini 3.1 Pro镜像站，不需要Google账号、不需要翻墙，在国内即可正常访问和使用。
 
 如果你在尝试升级Gemini Pro时发现无法完成付款、系统提示订阅失败或Google Pay无法绑定，这通常是因为Google Pay在国内无法正常使用，加上国内信用卡容易被拒付、账单地址不匹配或触发跨区风控，导致绝大多数国内用户无法直接在Gemini官网完成付款。此时可以选择使用**星际放映厅**提供的Gemini Pro代充值服务，由平台替你完成整个支付流程；或者直接购买由**银河录像局**提供的Gemini Pro独立账号，登录即可立即使用，不需要进行任何支付设置。值得注意的是，Gemini Pro代充值适合想继续使用自己Google账号的用户，而购买Gemini Pro独立账号则更适合追求稳定、不想自己处理开通流程的用户。
 
@@ -256,21 +256,21 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 
 如果你的Google账号突然出现风控，例如频繁弹出安全验证、提示异常登录、无法正常使用Gemini Pro权限、甚至被临时限制功能，这通常与IP频繁变化、设备切换过多、登录环境不稳定或多次付款失败有关。有时如果你使用的是共享Google账号，也极易触发风控机制。最好的解决方法是尽量保持固定IP、使用同一设备进行登录，并避免频繁切换线路。如果你的Google账号已经出现严重风控，可以通过**银河录像局**、**星际放映厅**或**账号星球**等平台直接购买一个新的Gemini Pro账号。
 
-总体来说，Gemini 3 Pro无法使用的问题绝大部分都可以解决：网络问题可以通过稳定的科学上网或Gemini Pro镜像站解决；Gemini Pro无法开通可以通过代充值或购买独立账号解决；多模态功能报错通常是因为未升级到Gemini Pro会员；Google账号风控则可以通过固定IP或平台售后协助解决。只要找到问题原因，大多数使用故障都能在短时间内恢复。
+总体来说，Gemini 3.1 Pro无法使用的问题绝大部分都可以解决：网络问题可以通过稳定的科学上网或Gemini Pro镜像站解决；Gemini Pro无法开通可以通过代充值或购买独立账号解决；多模态功能报错通常是因为未升级到Gemini Pro会员；Google账号风控则可以通过固定IP或平台售后协助解决。只要找到问题原因，大多数使用故障都能在短时间内恢复。
 
 <p align="center"><a href="https://nf.video/BTgSc">访问银河录像局官网</a>或者<a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">访问账号星球官网</a></p>
 
 ## 总结：国内如何使用Gemini Pro会员？
 
-对于国内用户而言，想要顺利使用Gemini 3 Pro并不难，关键是绕开国内网络环境与支付限制，选择最适合自己的Gemini Pro开通方式。换句话说就是，国内用户使用Gemini 3 Pro通常有三种可行路径：购买Gemini Pro账号、使用Gemini Pro代充值服务以及使用Gemini 3 Pro镜像站，每一种方式都有不同的适用人群和优势。
+对于国内用户而言，想要顺利使用Gemini 3.1 Pro并不难，关键是绕开国内网络环境与支付限制，选择最适合自己的Gemini Pro开通方式。换句话说就是，国内用户使用Gemini 3.1 Pro通常有三种可行路径：购买Gemini Pro账号、使用Gemini Pro代充值服务以及使用Gemini 3.1 Pro镜像站，每一种方式都有不同的适用人群和优势。
 
-如果你希望获得最稳定、最省事、最不折腾的体验，那么直接购买已开通好的Gemini Pro独立账号是成本最低、效率最高的方式。当你购买后只需登录即可使用全部Gemini 3 Pro功能，无需Google Pay、无需绑定信用卡、无需跨区验证，也不需要处理风控问题。这种方式适合追求稳定、长期使用、并且注重账号独立性的用户。
+如果你希望获得最稳定、最省事、最不折腾的体验，那么直接购买已开通好的Gemini Pro独立账号是成本最低、效率最高的方式。当你购买后只需登录即可使用全部Gemini 3.1 Pro功能，无需Google Pay、无需绑定信用卡、无需跨区验证，也不需要处理风控问题。这种方式适合追求稳定、长期使用、并且注重账号独立性的用户。
 
 如果你已经拥有自己的Google账号，并且不想丢失原有的对话记录、历史数据、收藏内容、偏好设置等信息，那么Gemini Pro代充值是最合适的选择。通过星际放映厅等平台，你只需要提供Google账号，其余付款和升级流程全部由平台代为完成，几分钟内即可让你的Google账号成功升级到Pro版本，使用体验与自己支付完全一致。
 
-如果你预算有限，或只是想体验Gemini 3 Pro的核心能力而不需要独立账号，那么选择银河录像局提供的Gemini 3 Pro镜像站是性价比最高的方式。Gemini 3 Pro镜像站无需Google账号、无需Google Pay、无需翻墙，只需打开网页即可直接使用Gemini 3 Pro以及GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，非常适合学生、小白、轻度使用者或临时需求场景。
+如果你预算有限，或只是想体验Gemini 3.1 Pro的核心能力而不需要独立账号，那么选择银河录像局提供的Gemini 3.1 Pro镜像站是性价比最高的方式。Gemini 3.1 Pro镜像站无需Google账号、无需Google Pay、无需翻墙，只需打开网页即可直接使用Gemini 3.1 Pro以及GPT-5.2、Grok-4.1、DeepSeek-R1等多个旗舰模型，非常适合学生、小白、轻度使用者或临时需求场景。
 
-总体来说，在国内使用Gemini 3 Pro并不复杂，用户只需要根据自身需求选择最适合的开通方式即可。无论你是想专业使用多模态能力、想体验新功能，还是只是临时查资料、写文案或做项目，都能顺利、稳定、无障碍地使用Gemini 3 Pro的全部功能。
+总体来说，在国内使用Gemini 3.1 Pro并不复杂，用户只需要根据自身需求选择最适合的开通方式即可。无论你是想专业使用多模态能力、想体验新功能，还是只是临时查资料、写文案或做项目，都能顺利、稳定、无障碍地使用Gemini 3.1 Pro的全部功能。
 
 <p align="center"><a href="https://nf.video/BTgSc">访问银河录像局官网</a>或者<a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">访问账号星球官网</a></p>
 
@@ -279,10 +279,10 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT充值</a>：最新ChatGPT充值订阅教程，包括ChatGPT Plus购买、ChatGPT合租和ChatGPT代充值！
 * <a href="https://github.com/anyofai/claude-pro">Claude注册</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
-* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3.1 Pro等大模型！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何为Midjourney代充值？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3.1 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需21元！
@@ -290,7 +290,7 @@ Google Gemini目前支持网页端和移动端多种使用方式，你可以根�
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新ChatGPT注册教程：如何注册ChatGPT账号？如何购买ChatGPT账号？
-* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，148元/月，提供全程质保，支持开具正规发票！
+* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，121元/月，提供全程质保，支持开具正规发票！
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充</a>：最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
