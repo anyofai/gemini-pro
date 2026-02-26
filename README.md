@@ -164,7 +164,7 @@
 
 **第二种方式，通过API方案替代官方订阅**。如果你的主要需求是调用Gemini模型进行开发、编程或自动化任务，而并非使用Gemini的网页版功能，那么可以选择通过API方案来替代官方订阅。这种方式不依赖Google前端的订阅体系，也不会受到账号地区限制，整体稳定性和可控性更高。你可以选择由<a href="https://www.naifeistation.com/i/3wLPME">**星际放映厅**</a>提供的Gemini API相关服务。该服务的核心作用是协助用户为自己已有的Google账号完成Google Cloud Platform（GCP）的开通与激活。当开通完成后，账号将获得50美元的GCP可用额度，可直接用于调用Gemini API。在整个过程中，用户无需自行处理GCP开户、账号验证、信用卡绑定或支付设置等复杂步骤。GCP的开通及额度激活均由平台协助完成，额度直接绑定在用户本人的Google账号中，后续使用方式与官方API调用流程保持一致。这种方式非常适合希望使用Gemini API，但对GCP开通流程不熟悉，或无法完成官方订阅的用户。
 
-![若此账号无法订阅Google AI方案怎么办:通过API方案替代官方订阅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png
+![若此账号无法订阅Google AI方案怎么办:通过API方案替代官方订阅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
 
 **第三种方式，重新注册一个全新的Google账号**。从理论上来说，也可以通过注册一个全新的Google账号来尝试完成Gemini Pro订阅。这种方式通常需要同时满足多个条件，包括使用支持对应地区的稳定网络环境、绑定相应国家的信用卡，并确保设备环境相对干净。然而，这种做法整体成本较高，实际失败率也不低，一旦操作不当，仍有可能再次触发Google的风控机制，因此并不适合大多数普通用户。需要注意的是，如果你不想自行注册Google账号，也可以选择通过**星际放映厅**直接获取一个全新的Google账号使用。
 
