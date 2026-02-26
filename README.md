@@ -158,15 +158,15 @@
 
 若你在订阅Gemini Pro会员时遇到了“此账号无法订阅Google AI方案”的提示，请尝试以下几种相对可行的解决方案：
 
-**第一种方式，直接购买可用的成品账号**。如果你想订阅Gemini Pro会员，那么最简单直接的办法是通过**星际放映厅**等平台，直接购买Gemini Pro成品账号，或为现有Gemini账号代充值，亦或选择Gemini Pro拼车合租服务。这些平台通常会提前处理好地区、账号和支付等关键问题，用户可以直接使用Gemini Pro的全部功能，而无需自行反复配置网络环境或折腾支付流程。这也是目前开通Gemini Pro会员成功率较高、操作成本相对较低的解决方案，适合希望尽快使用Gemini Pro的普通用户。
+**第一种方式，直接购买可用的成品账号**。如果你想订阅Gemini Pro会员，最简单直接的办法是通过<a href="https://www.naifeistation.com/i/3wLPME">**星际放映厅**</a>等平台购买Gemini Pro成品账号，或为现有Gemini账号代充值，亦或选择Gemini Pro拼车合租服务。这类平台通常会提前处理好地区、账号及支付等关键问题，用户可以直接使用Gemini Pro的全部功能，而无需自行反复配置网络环境或处理支付流程。这也是目前开通Gemini Pro会员成功率较高、操作成本相对较低的一种解决方案，适合希望尽快使用Gemini Pro的普通用户。
 
 ![若此账号无法订阅Google AI方案怎么办:直接购买可用的成品账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-1.png)
 
-**第二种方式，通过API方案替代官方订阅**。如果你的主要需求是调用Gemini模型进行开发、编程或自动化任务，而并非使用Gemini的网页版功能，那么可以选择通过API方案来替代官方订阅。这种方式不依赖Google前端的订阅体系，也不会受到账号地区限制，整体稳定性和可控性更高。你可以选择由**星际放映厅**提供的Gemini API相关服务。该服务的核心作用是协助用户为自己已有的Google账号完成Google Cloud Platform（GCP）的开通与激活。当开通完成后，账号将获得50美元的GCP可用额度，可直接用于调用Gemini API。在整个过程中，用户无需自行处理GCP开户、账号验证、信用卡绑定或支付设置等复杂步骤。GCP的开通及额度激活均由平台协助完成，额度直接绑定在用户本人的Google账号中，后续使用方式与官方API调用流程保持一致。这种方式非常适合希望使用Gemini API，但对GCP开通流程不熟悉，或无法完成官方订阅的用户。
+**第二种方式，通过API方案替代官方订阅**。如果你的主要需求是调用Gemini模型进行开发、编程或自动化任务，而并非使用Gemini的网页版功能，那么可以选择通过API方案来替代官方订阅。这种方式不依赖Google前端的订阅体系，也不会受到账号地区限制，整体稳定性和可控性更高。你可以选择由<a href="https://www.naifeistation.com/i/3wLPME">**星际放映厅**</a>提供的Gemini API相关服务。该服务的核心作用是协助用户为自己已有的Google账号完成Google Cloud Platform（GCP）的开通与激活。当开通完成后，账号将获得50美元的GCP可用额度，可直接用于调用Gemini API。在整个过程中，用户无需自行处理GCP开户、账号验证、信用卡绑定或支付设置等复杂步骤。GCP的开通及额度激活均由平台协助完成，额度直接绑定在用户本人的Google账号中，后续使用方式与官方API调用流程保持一致。这种方式非常适合希望使用Gemini API，但对GCP开通流程不熟悉，或无法完成官方订阅的用户。
 
-![若此账号无法订阅Google AI方案怎么办:通过API方案替代官方订阅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png)
+![若此账号无法订阅Google AI方案怎么办:通过API方案替代官方订阅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4-2.png
 
-**第三种方式，重新注册一个全新的Google账号**。从理论上来说，也可以通过重新注册一个全新的Google账号来尝试完成Gemini Pro订阅。这种方式通常需要同时满足多个条件，包括使用稳定的支持地区网络环境、绑定对应国家的信用卡，并确保设备环境相对干净。然而，这种做法整体成本较高，实际失败率也不低，一旦操作不当，仍有可能再次触发Google的风控机制，因此并不适合大多数普通用户。需要注意的是，如果你不想自行注册Google账号，也可以选择通过**星际放映厅**直接获取一个全新的Google账号作。
+**第三种方式，重新注册一个全新的Google账号**。从理论上来说，也可以通过注册一个全新的Google账号来尝试完成Gemini Pro订阅。这种方式通常需要同时满足多个条件，包括使用支持对应地区的稳定网络环境、绑定相应国家的信用卡，并确保设备环境相对干净。然而，这种做法整体成本较高，实际失败率也不低，一旦操作不当，仍有可能再次触发Google的风控机制，因此并不适合大多数普通用户。需要注意的是，如果你不想自行注册Google账号，也可以选择通过**星际放映厅**直接获取一个全新的Google账号使用。
 
 ![若此账号无法订阅Google AI方案怎么办:重新注册一个全新的Google账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
@@ -182,11 +182,11 @@
 
 在这种情况下，最简单、最直接的解决方案，是通过专业平台直接获取已经配置好的Gemini学生优惠账号。
 
-目前，最简单省事的方式是通过“**<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">账号星球</a>**”这个平台直接购买Gemini学生教育优惠账号。账号星球提供的Gemini学生优惠账号价格为199元人民币，**可直接使用12个月**，无需自行进行学生认证，也不需要折腾复杂的注册和验证流程。如果按月计算的话，**每月仅约16.5元**，整体成本非常低，同时也省去了大量时间和精力，适合希望快速、低成本使用Gemini学生优惠账号的用户。
+目前，最简单省事的方式是通过“**<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-gemini">账号星球</a>**”这个平台直接购买Gemini学生教育优惠账号。账号星球提供的Gemini学生优惠账号价格为199元人民币，**可直接使用12个月**，无需自行进行学生认证，也不需要折腾复杂的注册和验证流程。如果按月计算的话，**每月仅约16.5元**，整体成本非常低，同时也省去了大量时间和精力，适合希望快速、低成本使用Gemini学生优惠账号的用户。（注意：账号星球提供的Gemini学生优惠账号仅提供20天质保。）
 
 ![如何快速获取Gemini学生教育优惠账号：通过账号星球购买Gemini学生教育优惠账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-6-1.png)
 
-当然，如果你并不执着于“Gemini学生优惠账号”这一形式，而是更关注Gemini Pro会员的使用稳定性和功能完整性，也可以选择通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”购买Gemini Pro会员。银河录像局提供的Gemini Pro套餐价格同样具有性价比，目前6个月套餐仅需199元，折算下来约**每月33元**，并且还**包含2次售后服务**，适合对Gemini有一定使用需求的用户。
+当然，如果你并不执着于“Gemini学生优惠账号”这一形式，也可以选择通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”购买Gemini Pro会员。银河录像局提供的Gemini Pro套餐同样具有较高性价比，目前12个月套餐仅需199元，折合**每月约16.5元**，并且还**包含2次售后服务**，适合有一定Gemini使用需求的用户。
 
 ![如何快速获取Gemini学生教育优惠账号：通过银河录像局购买Gemini Pro账号](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-2.png)
 
